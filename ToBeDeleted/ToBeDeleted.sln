@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToBeDeleted", "ToBeDeleted\ToBeDeleted.csproj", "{D00A35A4-90DB-4163-8A4A-97A4CCC86006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00A35A4-90DB-4163-8A4A-97A4CCC86006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00A35A4-90DB-4163-8A4A-97A4CCC86006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00A35A4-90DB-4163-8A4A-97A4CCC86006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00A35A4-90DB-4163-8A4A-97A4CCC86006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {482DBDE7-C0EA-474D-905A-E49FC2C04976}
+	EndGlobalSection
+EndGlobal
